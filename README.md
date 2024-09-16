@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tugas1login
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# mobile-A1
+Tugas 1 Pemrograman Aplikasi Mobile - Login page 
+>>>>>>> 69771bd3c635f18d3cfe2ae098d2a7b041df08e4
